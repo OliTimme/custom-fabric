@@ -10,7 +10,7 @@ This pattern is used to create a short recipe, consisting of three parts:
   - A step by step guide on how to prepare the meal
   - A list of metadata like preptime, number of servings, nutritions
   
-The output will be translated into german. All imerial units are converted to metric units
+The output will be translated into german. All imerpeial units are converted to metric units
 
 ## Meta
 
